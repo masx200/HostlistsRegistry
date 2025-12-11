@@ -24,7 +24,7 @@
 		"hostlist.7.description": "Elenco per impedire alle smart TV d'inviare metadati al fornitore e per bloccare gli annunci nelle app e nei servizi cinematografici"
 	},
 	{
-		"hostlist.8.name": "Elenco di Filtraggio di NoCoin",
+		"hostlist.8.name": "Elenco Filtri NoCoin",
 		"hostlist.8.description": "Elenco per bloccare il crypto mining via browser"
 	},
 	{
@@ -161,7 +161,7 @@
 	},
 	{
 		"hostlist.44.name": "HaGeZi's Threat Intelligence Feeds",
-		"hostlist.44.description": "Aumenta significativamente la sicurezza! Blocca malware, cryptojacking, spam, truffe e phishing."
+		"hostlist.44.description": "Aumenta significativamente la sicurezza! Blocca malefatte, cripto-furti, spam, truffe e pescaggio dati."
 	},
 	{
 		"hostlist.45.name": "HaGeZi's Allowlist Referral",
@@ -234,5 +234,33 @@
 	{
 		"hostlist.64.name": "1Hosts (Pro)",
 		"hostlist.64.description": "Lista per il bloccaggio di inserzioni, tracciatori e malware. Versione rigorosa: ha pause minime, dà priorità alla riservatezza e alla sicurezza (bloccaggio delle inserzioni) rispetto all'esperienza utente, ad esempio blocca `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "HaGeZi's Vivo Tracker Blocklist",
+		"hostlist.65.description": "Blocca i tracciatori a banda larga nativi Vivo che monitorano la tua attività."
+	},
+	{
+		"hostlist.66.name": "HaGeZi's OPPO & Realme Tracker Blocklist",
+		"hostlist.66.description": "Blocca i tracciatori a banda larga nativi OPPO e Realme che monitorano la tua attività."
+	},
+	{
+		"hostlist.67.name": "HaGeZi's Apple Tracker Blocklist",
+		"hostlist.67.description": "Blocca i tracciatori a banda larga nativi Apple che monitorano la tua attività."
+	},
+	{
+		"hostlist.68.name": "HaGeZi's URL Shortener Blocklist",
+		"hostlist.68.description": "Blocca gli abbreviatori di URL."
+	},
+	{
+		"hostlist.69.name": "ShadowWhisperer Tracking List",
+		"hostlist.69.description": "Blocca i domini relativi ad analisi, diagnostica, metriche, posizione e rilevamento degli IP pubblici."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Versione aggressiva - massimo bloccaggio contro le nuove minacce alla riservatezza. Può (occasionalmente) compromettere siti o servizi legittimi."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "La protezione DNS Rebind è un meccanismo di sicurezza che impedisce agli aggressori di manipolare le risposte DNS per far risolvere un dominio a indirizzi IP privati o locali, bloccando in tal modo l'accesso di codici dannosi a reti dedicate interne tramite attacchi di DNS rebinding."
 	}
 ]

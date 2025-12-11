@@ -1,9 +1,9 @@
 !
 ! Title: POL: Polish filters for Pi-hole
 ! Description: Polish filters for Pi-hole.
-! Version: 1.0.14.53
+! Version: 1.0.14.72
 ! Homepage: https://www.certyficate.it/
-! Last modified: 2025-02-25T13:16:11.934Z
+! Last modified: 2025-12-10T18:12:30.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -250,7 +250,6 @@
 ||salesbeehive.com^
 ||smartclick.pl^
 ||smpl.hit.ppdb.pl^
-||snrbox.com^
 ||snrcdn.net^
 ||stat.4u.pl^
 ||stat.dziennik.pl^
@@ -280,3 +279,25 @@
 ||x.sare25.com^
 ||ymetrica.com^
 ||sus-wel.com^
+||cdn.questvert.pl^
+||jnews6.com^
+||jnews5.com^
+||noje.topnewsource.com^
+||85otw.voluumtrk3.com^
+||numpet.com^
+||azontree.com^
+||aktualnosci.pl.ua^
+||shownewsdaily.com^
+||deal-pl.shop^
+||mydatinguniverse.com^
+||gotowanie.pl.edrrak.com^
+||mniamblog.polnda.asckat.com^
+||tvmoviespoilers.com^
+||nowiny24h.com^
+||travel2days.com^
+||hoanhxinh.com^
+||znicely.com^
+||auradelunadao.com^
+||embemy.com^
+||gymhay.com^
+||slovakpress.com^

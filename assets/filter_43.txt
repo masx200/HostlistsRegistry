@@ -1,9 +1,9 @@
 !
 ! Title: ISR: EasyList Hebrew
 ! Description: List for blocking ads in Hebrew.
-! Version: 1.0.14.59
+! Version: 1.0.14.71
 ! Homepage: https://github.com/easylist/EasyListHebrew
-! Last modified: 2025-06-16T16:09:13.192Z
+! Last modified: 2025-10-06T07:08:49.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -41,6 +41,7 @@
 ||briut-chai.com^
 ||browsergames2018.com^
 ||browsiprod.com^
+||buballmighty.com^
 ||bumbalu-israel.com^
 ||carsguys.co.il^
 ||cglms.com^
@@ -88,6 +89,7 @@
 ||imitrk.com^
 ||ineed2fuck.com^
 ||isdarot.com^
+||israeljobstoday.com^
 ||kelocote.prpl.co.il^
 ||kooduu.com^
 ||landing-page.mobi^
@@ -105,6 +107,7 @@
 ||makelove.co.il^
 ||mashrokit.info^
 ||maskoter.com^
+||matsato.com^
 ||medical-rights.co.il^
 ||meet-nowhere12.com^
 ||meirav-il.com^
@@ -113,6 +116,7 @@
 ||mizrahi-il.com^
 ||movitop.info^
 ||namesakeoscilloscopemarquis.com^
+||noa-eden.com^
 ||noa-tikim.com^
 ||nothering.com^
 ||noya-il.com^
@@ -130,7 +134,10 @@
 ||pigment-adv.co.il^
 ||pinukim.net^
 ||pisrael.com^
+||play.milly-style.co.il^
+||plushome.co.il^
 ||premium-offers.space^
+||protyshop.com^
 ||quick-date.xyz^
 ||rateonclick.com^
 ||regi.tech^
@@ -147,6 +154,7 @@
 ||sortie-shop.com^
 ||sprawley.com^
 ||srvjar.com^
+||storyshop.co.il^
 ||streamin.to^
 ||stylebox.co.il^
 ||talkahead.com^
@@ -154,6 +162,7 @@
 ||totalmedia2.ynet.co.il^
 ||tracknotify.com^
 ||trustmedia.co.il^
+||try-smiley.com^
 ||tvfeel.cc^
 ||twobluedeer.com^
 ||unbouncepages.com^
@@ -170,3 +179,4 @@
 ||ws.walla.co.il^
 ||yazizim.com^
 ||zohar-trends.com^
+||zoharajewels.com^

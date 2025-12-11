@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's DynDNS Blocklist
 ! Description: Blocks dynamic DNS services to protect against malicious use in phishing campaigns and others.
-! Version: 1.0.15.72
+! Version: 1.0.16.18
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2025-07-02T07:08:50.475Z
+! Last modified: 2025-12-09T11:08:23.118Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -17,11 +17,13 @@
 ||1337.cx^
 ||16-b.it^
 ||1cooldns.com^
+||1dumb.com^
 ||2288.org^
 ||24-7.ro^
 ||25u.com^
 ||2fine.de^
 ||2mydns.net^
+||2p.fm^
 ||2waky.com^
 ||3-a.net^
 ||32-b.it^
@@ -45,7 +47,6 @@
 ||64-b.it^
 ||6600.org^
 ||688.org^
-||69.mu^
 ||7766.org^
 ||77qac.com^
 ||77uam.com^
@@ -65,6 +66,7 @@
 ||adagio.tw^
 ||dyn.addr.tools^
 ||afraid.org^
+||agropeople.ru^
 ||aintno.info^
 ||airlinemeals.net^
 ||albertn.ru^
@@ -92,6 +94,7 @@
 ||asenov.ru^
 ||asiamariage.com^
 ||asianfreshproduce.com^
+||ask2ask.com^
 ||astrabus.ru^
 ||at-band-camp.net^
 ||ath.cx^
@@ -103,6 +106,7 @@
 ||autoipset.com^
 ||avandns.com^
 ||ax.lt^
+||b0ne.com^
 ||b0tnet.com^
 ||b33r.us^
 ||bad.mn^
@@ -150,9 +154,9 @@
 ||briansagar.com^
 ||broke-it.net^
 ||brweb.org^
+||bsn2bsn.com^
 ||bumbleshrimp.com^
 ||burlingtondrywall.com^
-||buys.ru^
 ||buyshouses.net^
 ||byte4byte.com^
 ||cable-modem.org^
@@ -162,7 +166,6 @@
 ||cashit.info^
 ||cbopelousas.com^
 ||cbu.net^
-||ccmissoula.com^
 ||cechire.com^
 ||celebsplay.com^
 ||celltrak.mobi^
@@ -250,7 +253,6 @@
 ||darksair.org^
 ||darktech.org^
 ||davidsagar.com^
-||dd-dns.de^
 ||ddns.info^
 ||ddns.me^
 ||ddns.mobi^
@@ -258,6 +260,7 @@
 ||ddns.name^
 ||ddns.net^
 ||ddns.us^
+||ddns-dvr.com^
 ||ddns5.com^
 ||ddnsapp.com^
 ||ddnsfree.com^
@@ -283,11 +286,9 @@
 ||didns.ru^
 ||digikabel.hu^
 ||digitalgroupe.com^
-||dip.jp^
-||diskstation.eu^
-||diskstation.org^
 ||ditchyourip.com^
 ||divx.se^
+||diyplans.org^
 ||dlinkddns.com^
 ||dmtr.ru^
 ||dnet.hu^
@@ -348,9 +349,7 @@
 ||doyleandprendergast.com^
 ||dp76.com^
 ||dpcube.com^
-||dray-dns.de^
 ||drayddns.com^
-||draydns.de^
 ||dropfiles.net^
 ||drunkensailor.org^
 ||dsmtp.com^
@@ -380,7 +379,6 @@
 ||dyn-access.org^
 ||dyn-ip24.de^
 ||dyn-o-saur.com^
-||dyn-vpn.de^
 ||dynalias.com^
 ||dynalias.net^
 ||dynalias.org^
@@ -411,6 +409,7 @@
 ||dyndns-free.com^
 ||dyndns-home.com^
 ||dyndns-ip.com^
+||dyndns-ip.org^
 ||dyndns-mail.com^
 ||dyndns-office.com^
 ||dyndns-pics.com^
@@ -445,7 +444,6 @@
 ||dynv4.net^
 ||dynv6.com^
 ||dynv6.net^
-||dynvpn.de^
 ||dyyndns.net^
 ||e-m-a-i-l.org^
 ||e-romagnoli.com^
@@ -458,6 +456,7 @@
 ||echoparklake.com^
 ||edns.biz^
 ||effers.com^
+||eiresol.com^
 ||elchemi.com^
 ||elitter.net^
 ||embeddedonline.org^
@@ -490,7 +489,6 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
-||evils.in^
 ||expired-dns.com^
 ||ez-ip.net^
 ||ezua.com^
@@ -504,6 +502,7 @@
 ||faqserv.com^
 ||farted.net^
 ||fartit.com^
+||fatdiary.org^
 ||fdns.uk^
 ||fearpenguins.com^
 ||feste-ip.net^
@@ -697,10 +696,8 @@
 ||humorvisite.eu^
 ||hunnur.com^
 ||iamallama.com^
-||icg.hk^
 ||ics.tw^
 ||ideasciviles.com^
-||idigo.org^
 ||idleplay.net^
 ||4040.idv.tw^
 ||ieserver.net^
@@ -850,11 +847,13 @@
 ||kanda.ru^
 ||kaohsiung.tv^
 ||kck-saratov.ru^
+||keenetic.name^
 ||keine-panik.net^
 ||kellserve.com^
 ||kicks-ass.net^
 ||kicks-ass.org^
 ||kir22.ru^
+||klapa.eu^
 ||knabrub.com^
 ||knowsitall.info^
 ||kompaniet.nu^
@@ -915,7 +914,6 @@
 ||medbury.com^
 ||medittech.com^
 ||mefound.com^
-||mein-vigor.de^
 ||melakaboy.com^
 ||merseine.com^
 ||merseine.nu^
@@ -927,7 +925,6 @@
 ||midjava.com^
 ||migibts.net^
 ||mikata.ru^
-||mikecartwright.net^
 ||mil.nf^
 ||mindhackers.org^
 ||mine.bz^
@@ -961,8 +958,6 @@
 ||musterihizmetleri.com^
 ||mwop.net^
 ||my.to^
-||my-vigor.de^
-||my-wan.de^
 ||my03.com^
 ||myactivedirectory.com^
 ||myaddr.dev^
@@ -974,6 +969,8 @@
 ||myddns.me^
 ||myddns.rocks^
 ||mydissent.net^
+||mydns.bz^
+||mydns.jp^
 ||myeffect.net^
 ||myftp.biz^
 ||myftp.info^
@@ -1037,6 +1034,7 @@
 ||networkoutpost.com^
 ||nflfan.org^
 ||nhlfan.net^
+||no-domain.name^
 ||no-ip.be^
 ||no-ip.biz^
 ||no-ip.ca^
@@ -1108,6 +1106,7 @@
 ||partycenteronline.com^
 ||patelmortgage.com^
 ||paulkelly.org^
+||pcanywhere.net^
 ||peachyweb.com^
 ||pedie.info^
 ||pendulumaudio.com^
@@ -1132,7 +1131,6 @@
 ||pointto.us^
 ||port0.org^
 ||port25.biz^
-||portalindustries.org^
 ||portfwd.com^
 ||portmap.host^
 ||prettyweak.com^
@@ -1279,6 +1277,7 @@
 ||sne.jp^
 ||socialadhesion.com^
 ||softether.net^
+||solfa.org^
 ||solidmation.com^
 ||sonnish.com^
 ||soon.it^
@@ -1319,9 +1318,6 @@
 ||surfnet.ca^
 ||suroot.com^
 ||swtest.ru^
-||syno-ds.de^
-||synology-diskstation.de^
-||synology-ds.de^
 ||synoserver.com^
 ||sysadminetworks.com^
 ||system-ns.com^
@@ -1345,6 +1341,7 @@
 ||thatip.com^
 ||thddns.net^
 ||the-button.com^
+||theblacklist.org^
 ||thehomeserver.net^
 ||themcmillans.org^
 ||thenest.org^
@@ -1365,6 +1362,7 @@
 ||trailsendlodge.org^
 ||trickip.net^
 ||trickip.org^
+||trieditmyself.com^
 ||tru.io^
 ||truthvid.com^
 ||tscng.org^
@@ -1373,6 +1371,7 @@
 ||tvlinux.com^
 ||twilightparadox.com^
 ||twodns.de^
+||twsuser.com^
 ||tzo.com^
 ||ucvradio.cl^
 ||udp64.de^
@@ -1407,6 +1406,7 @@
 ||vincomlimited.com^
 ||vitalwerks.com^
 ||vizvaz.com^
+||voles35.ru^
 ||voyez.ca^
 ||vpn64.de^
 ||vpndns.net^

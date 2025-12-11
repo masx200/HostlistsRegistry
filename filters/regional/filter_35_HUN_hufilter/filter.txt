@@ -1,9 +1,9 @@
 !
 ! Title: HUN: Hufilter
 ! Description: The Hungarian Adblock List.
-! Version: 1.0.15.12
+! Version: 1.0.15.20
 ! Homepage: https://github.com/hufilter/hufilter
-! Last modified: 2025-06-02T23:07:37.394Z
+! Last modified: 2025-08-11T13:19:45.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -39,6 +39,7 @@
 ||fourtwentytradingcompany.net^
 ||fruitflan.com^
 ||iofferphoto.com^
+||loader.nyitvatartas24.hu^
 ||loading-delivery2.com^
 ||media.netpositive.hu^
 ||netadclick.com^
@@ -51,6 +52,7 @@
 ||related.hu^
 ||smartcj.com^
 ||stat.adultium.com^
+||static.hvgrt.hu^
 ||stats.badoostats.com^
 ||syndication.trafficreps.com^
 ||up-banner.wavecdn.de^

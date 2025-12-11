@@ -234,5 +234,33 @@
 	{
 		"hostlist.64.name": "1Hosts (Pro)",
 		"hostlist.64.description": "Danh sách để chặn quảng cáo, trình theo dõi và phần mềm độc hại khó chịu. Phiên bản nghiêm ngặt: có ít gián đoạn, ưu tiên riêng tư và bảo mật (chặn quảng cáo) hơn trải nghiệm người dùng, ví dụ: chặn `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "HaGeZi's Vivo Tracker Blocklist",
+		"hostlist.65.description": "Chặn các trình theo dõi băng thông gốc của Vivo theo dõi hoạt động của bạn."
+	},
+	{
+		"hostlist.66.name": "HaGeZi's OPPO & Realme Tracker Blocklist",
+		"hostlist.66.description": "Chặn các trình theo dõi băng thông gốc của OPPO & Realme theo dõi hoạt động của bạn."
+	},
+	{
+		"hostlist.67.name": "HaGeZi's Apple Tracker Blocklist",
+		"hostlist.67.description": "Chặn các trình theo dõi băng thông gốc của Apple theo dõi hoạt động của bạn."
+	},
+	{
+		"hostlist.68.name": "HaGeZi's URL Shortener Blocklist",
+		"hostlist.68.description": "Chặn các trình rút gọn URL."
+	},
+	{
+		"hostlist.69.name": "ShadowWhisperer Tracking List",
+		"hostlist.69.description": "Chặn các miền liên quan đến phân tích, chẩn đoán, đo lường, vị trí và phát hiện IP công khai."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Phiên bản mạnh mẽ - chặn tối đa các mối đe dọa riêng tư mới xuất hiện. Có thể (thỉnh thoảng) gây gián đoạn cho các trang web hoặc dịch vụ hợp pháp."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "Bảo vệ DNS rebinding là một cơ chế bảo mật ngăn chặn kẻ tấn công thao túng phản hồi DNS để khiến một tên miền giải quyết đến các địa chỉ IP riêng tư hoặc địa phương, từ đó chặn các skript độc hại truy cập vào mạng nội bộ thông qua các cuộc tấn công DNS rebinding."
 	}
 ]

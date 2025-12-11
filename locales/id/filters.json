@@ -1,6 +1,6 @@
 [
 	{
-		"hostlist.1.name": "Filter DNS AdGuard",
+		"hostlist.1.name": "Penyaring nama domain yang disederhanakan AdGuard",
 		"hostlist.1.description": "Daftar terdiri dari beberapa filter (Filter Dasar AdGuard, Filter Media Sosial, Filter Perlindungan Pelacakan, Filter Iklan Seluler, EasyList dan EasyPrivacy) dan disederhanakan secara khusus agar lebih kompatibel dengan pemblokiran iklan tingkat DNS"
 	},
 	{
@@ -234,5 +234,33 @@
 	{
 		"hostlist.64.name": "1Hosts (Pro)",
 		"hostlist.64.description": "Daftar untuk memblokir iklan, pelacak, dan malware yang mengganggu. Versi ketat: memiliki sedikit gangguan, mengutamakan privasi dan keamanan (pemblokiran iklan) daripada UX, misalnya memblokir `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "HaGeZi's Vivo Tracker Blocklist",
+		"hostlist.65.description": "Memblokir pelacak broadband asli Vivo yang melacak aktivitas Anda."
+	},
+	{
+		"hostlist.66.name": "HaGeZi's OPPO & Realme Tracker Blocklist",
+		"hostlist.66.description": "Memblokir pelacak broadband asli OPPO & Realme yang melacak aktivitas Anda."
+	},
+	{
+		"hostlist.67.name": "HaGeZi's Apple Tracker Blocklist",
+		"hostlist.67.description": "Memblokir pelacak broadband asli Apple yang melacak aktivitas Anda."
+	},
+	{
+		"hostlist.68.name": "HaGeZi's URL Shortener Blocklist",
+		"hostlist.68.description": "Memblokir pemendek URL."
+	},
+	{
+		"hostlist.69.name": "ShadowWhisperer Tracking List",
+		"hostlist.69.description": "Memblokir domain yang terkait dengan analytics, diagnostik, metrik, lokasi, dan deteksi IP publik."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Versi agresif - pemblokiran maksimum terhadap ancaman privasi baru. Dapat (sesekali) mengganggu situs atau layanan yang sah."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "Perlindungan DNS Rebind adalah mekanisme keamanan yang mencegah penyerang memanipulasi respon DNS untuk membuat suatu domain mengarah ke Alamat IP privat atau lokal, sehingga memblokir skrip berbahaya dari mengakses jaringan internal melalui serangan DNS rebinding."
 	}
 ]

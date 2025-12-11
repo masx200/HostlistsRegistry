@@ -234,5 +234,33 @@
 	{
 		"hostlist.64.name": "1Hosts (Pro)",
 		"hostlist.64.description": "Popis za blokiranje dosadnih oglasa, pratitelja i zlonamjernih programa. Stroga verzija: ima minimalne prekide, prioritizira privatnost i sigurnost (blokiranje oglasa) nad UX-om, npr. blokira `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "HaGeZi's Vivo Tracker Blocklist",
+		"hostlist.65.description": "Blokira izvorne Vivo širokopojasne pratitelje koji prate vašu aktivnost."
+	},
+	{
+		"hostlist.66.name": "HaGeZi's OPPO & Realme Tracker Blocklist",
+		"hostlist.66.description": "Blokira izvorne OPPO i Realme širokopojasne pratitelje koji prate vašu aktivnost."
+	},
+	{
+		"hostlist.67.name": "HaGeZi's Apple Tracker Blocklist",
+		"hostlist.67.description": "Blokira izvorne Apple širokopojasne pratitelje koji prate vašu aktivnost."
+	},
+	{
+		"hostlist.68.name": "HaGeZi's URL Shortener Blocklist",
+		"hostlist.68.description": "Blokira skraćivače URL-ova."
+	},
+	{
+		"hostlist.69.name": "ShadowWhisperer Tracking List",
+		"hostlist.69.description": "Blokira domene povezane s analitikom, dijagnostikom, metrikom, lokacijom i otkrivanjem javne IP-adrese."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Agresivna verzija – maksimalno blokiranje novih prijetnji privatnosti. Povremeno može onemogućiti ispravno funkcioniranje legitimnih stranica ili usluga."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "DNS Rebind Protection je sigurnosni mehanizam koji sprječava napadače da manipuliraju DNS odgovorima kako bi se domena riješila na privatne ili lokalne IP adrese, čime se zlonamjernim skriptama blokira pristup internim mrežama putem napada ponovnog vezivanja DNS-a."
 	}
 ]

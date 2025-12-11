@@ -1,6 +1,6 @@
 [
 	{
-		"hostlist.1.name": "Фильтр AdGuard DNS",
+		"hostlist.1.name": "DNS-фильтр",
 		"hostlist.1.description": "Состоит из нескольких фильтров (Базовый фильтр AdGuard, Фильтр счётчиков и систем аналитики, Фильтр мобильной рекламы, EasyList и EasyPrivacy) и специально упрощён для лучшей совместимости с блокировкой рекламы на уровне DNS"
 	},
 	{
@@ -234,5 +234,33 @@
 	{
 		"hostlist.64.name": "1Hosts (Pro)",
 		"hostlist.64.description": "Список для блокировки рекламы, трекеров и вредоносных программ. Строгая версия: минимум неисправностей, приоритет конфиденциальности и безопасности над UX, в частности блокирует `graph.facebook.com`."
+	},
+	{
+		"hostlist.65.name": "HaGeZi's Vivo Tracker Blocklist",
+		"hostlist.65.description": "Блокирует нативные трекеры Vivo, которые отслеживают вашу активность."
+	},
+	{
+		"hostlist.66.name": "HaGeZi's OPPO & Realme Tracker Blocklist",
+		"hostlist.66.description": "Блокирует нативные трекеры OPPO и Realme, которые отслеживают вашу активность."
+	},
+	{
+		"hostlist.67.name": "HaGeZi's Apple Tracker Blocklist",
+		"hostlist.67.description": "Блокирует нативные трекеры Apple, которые отслеживают вашу активность."
+	},
+	{
+		"hostlist.68.name": "HaGeZi's URL Shortener Blocklist",
+		"hostlist.68.description": "Блокирует сокращатели URL-адресов."
+	},
+	{
+		"hostlist.69.name": "ShadowWhisperer Tracking List",
+		"hostlist.69.description": "Блокирует домены, связанные с аналитикой, диагностикой, метриками, местоположением и обнаружением публичных IP-адресов."
+	},
+	{
+		"hostlist.70.name": "1Hosts (Xtra)",
+		"hostlist.70.description": "Агрессивная версия — максимальная блокировака новых угроз для конфиденциальности. Может (иногда) нарушать работу сайтов или сервисов."
+	},
+	{
+		"hostlist.71.name": "HaGeZi's DNS Rebind Protection",
+		"hostlist.71.description": "Защита от DNS rebind — это механизм безопасности, который предотвращает попытки злоумышленников подменять DNS-ответы, перенаправляя публичные домены на частные или локальные IP-адреса, и тем самым блокирует доступ вредоносных скриптов к внутренним сетям."
 	}
 ]

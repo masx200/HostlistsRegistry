@@ -17,6 +17,7 @@ module.exports = {
         indent: ['error', 4],
         'no-console': 'off',
         'import/no-extraneous-dependencies': 'off',
+        'comma-dangle': ['error', 'always-multiline'],
         'max-len': [
             'error',
             {
@@ -36,5 +37,6 @@ module.exports = {
             },
         ],
         'jsdoc/valid-types': 'off',
+        curly: ['error', 'all'],
     },
 };

@@ -1,9 +1,9 @@
 !
 ! Title: HaGeZi's OPPO & Realme Tracker Blocklist
 ! Description: Blocks OPPO & Realme native broadband trackers that track your activity.
-! Version: 1.0.0.0
+! Version: 1.0.0.7
 ! Homepage: https://github.com/hagezi/dns-blocklists
-! Last modified: 2025-07-03T10:24:06.376Z
+! Last modified: 2025-10-31T12:14:03.689Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -58,10 +58,6 @@
 ||icosa-service-us.allawnos.com^
 ||icota-service-eu.allawnos.com^
 ||icota-service-in.allawnos.com^
-||lang-server-eu.allawnos.com^
-||lang-server-in.allawnos.com^
-||lang-server-sg.allawnos.com^
-||lang-server-us.allawnos.com^
 ||lockcard-service-in.allawnos.com^
 ||moa-upload-in.allawnos.com^
 ||moa-upload-sg.allawnos.com^
@@ -127,7 +123,6 @@
 ||storedl3f.nearme.com.cn^
 ||storedl4f.nearme.com.cn^
 ||storedl5f.nearme.com.cn^
-||storedl82cc6d1f.nearme.com.cn^
 ||finosfin.com^
 ||appconf-ocs-eu.heytapdl.com^
 ||appconf-ocs-in.heytapdl.com^
@@ -239,6 +234,8 @@
 ||dhfs-in.heytapimage.com^
 ||dhfs-my.heytapimage.com^
 ||dhfs-ph.heytapimage.com^
+||ums-rum-cn.heytapimage.com^
+||ums-rum-global.heytapimage.com^
 ||ads.heytapmobi.com^
 ||logforward.browser.heytapmobi.com^
 ||stat.browser.heytapmobi.com^
@@ -267,7 +264,10 @@
 ||i-cn01a.ocloud.heytapmobi.com^
 ||i-sg01a.ocloud.heytapmobi.com^
 ||omes-sec.heytapmobi.com^
-||push.heytapmobi.com^
+||dcintl.push.heytapmobi.com^
+||device-ups.push.heytapmobi.com^
+||id.push.heytapmobi.com^
+||userprofile.push.heytapmobi.com^
 ||api-id.theme.heytapmobi.com^
 ||ums-telemetry-cn.heytapmobi.com^
 ||ads.heytapmobile.com^
@@ -304,21 +304,16 @@
 ||browser-sdk-fr.heytapmobile.com^
 ||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
-||browser-sdk-us.heytapmobile.com^
 ||browserfiles.heytapmobile.com^
 ||api-gl.cdo.heytapmobile.com^
 ||api-id.cdo.heytapmobile.com^
 ||api-in.cdo.heytapmobile.com^
 ||conf-in-dc.heytapmobile.com^
 ||u-id.cpc.heytapmobile.com^
-||obus-in.dc.heytapmobile.com^
-||obus-sg.dc.heytapmobile.com^
+||dc.heytapmobile.com^
 ||dc-stat-in.heytapmobile.com^
 ||dragate-in-dc.heytapmobile.com^
 ||api-id.game.heytapmobile.com^
-||httpdns-euex-push.heytapmobile.com^
-||httpdns-ocloud.heytapmobile.com^
-||httpdns-push.heytapmobile.com^
 ||mdp-usertrace-in.heytapmobile.com^
 ||mdp-usertrace-sg.heytapmobile.com^
 ||obus-dc-eu.heytapmobile.com^

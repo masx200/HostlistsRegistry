@@ -1,12 +1,20 @@
 !
 ! Title: KOR: List-KR DNS
 ! Description: A DNS version of List-KR, a filter for websites in the Korean language
-! Version: 1.0.15.11
+! Version: 1.0.15.64
 ! Homepage: https://github.com/List-KR/List-KR
-! Last modified: 2025-06-16T14:08:18.935Z
+! Last modified: 2025-11-02T19:06:32.006Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||digitalcamp.co.kr^
+||mman.kr^
+||admize.io^
+||adguru.kr^
+||image.cauly.co.kr^
+||bridgelabs.kr^
+||daro.so^
+||adrop.io^
 ||adgirl.yes24.com^
 ||ad.api.adwiser.kr^
 ||recoshopping.naver.com^
@@ -167,7 +175,6 @@
 ||adscdn.orbi.kr^
 ||ads.orbi.kr^
 ||ads.mtgroup.kr^
-||tracker.digitalcamp.co.kr^
 ||search-ads-api.joongna.com^
 ||adg.dawin.tv^
 ||ads.quanta.la^
@@ -196,7 +203,6 @@
 ||ad.esmplus.com^
 ||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
-||mtag.mman.kr^
 ||ssp.meba.kr^
 ||ad.adnmore.co.kr^
 ||adapi.about.co.kr^
@@ -223,9 +229,14 @@
 ||i.keezip.com^
 ||awd.spochak.com^
 
+||get*bannerads-6egeg2u34q-du.a.run.app^
+||ad.kakaobank.com^
+||ad-pulse.kakaobank.cloud^
+||dnzedhceh7nim.cloudfront.net^
+||appmon.shinhan.com^
+||ads.ahnlab.com^
 ||adpacker.net^
 ||ad.yna.co.kr^
-||veta.naver.com^
 ||planad.net^
 ||aedi.ai^
 ||mobon.net^
