@@ -25,12 +25,15 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.15.1",
     "eslint": "^8.49.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.28.1",
     "eslint-plugin-jsdoc": "^46.8.2",
     "form-data": "^4.0.0",
     "semver": "^7.7.2"
+  },
+  "resolutions": {
+    "axios": "^1.15.1"
   }
 }
